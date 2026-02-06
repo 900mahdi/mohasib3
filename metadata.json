@@ -1,0 +1,7 @@
+{
+  "name": "Haseelat Al-Tajer (حصيلة التاجر)",
+  "description": "An advanced financial management and Zakat calculator for merchants, featuring voice commands, biometric security simulations, and detailed annual reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
